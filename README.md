@@ -20,3 +20,8 @@ The project displays a timetable from **Monday to Friday** with session details 
 - Responsive and clean layout using `align`, `cellpadding`, and `rowspan`
 - Centralized heading and border formatting for clarity
 
+## 🧪 How to Use
+
+1. Download or clone the repository:
+   ```bash
+   git clone https://github.com/hemanthkumar0405/Timetable.git
