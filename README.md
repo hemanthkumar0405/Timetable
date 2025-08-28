@@ -23,5 +23,5 @@ The project displays a timetable from **Monday to Friday** with session details 
 ## 🧪 How to Use
 
 1. Download or clone the repository:
-   ```bash
+
    git clone https://github.com/hemanthkumar0405/Timetable.git
